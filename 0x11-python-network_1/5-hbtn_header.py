@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import requests
 import sys
+"""Fetches a url and displays value of a variable in the response header"""
 
 if __name__ == "__main__":
     url = sys.argv[1]
